@@ -1,0 +1,1 @@
+This repository demonstrates a common error in F# programming involving mutable variables and unexpected side effects. The `bug.fs` file contains code that exhibits the problem, and the `bugSolution.fs` file provides a corrected version.
